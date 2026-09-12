@@ -1,0 +1,14 @@
+{
+  "name": "staff-manager",
+  "version": "1.0.0",
+  "description": "47 Database Staff Manager (Staff Man) - handles promotions, demotions, and infractions for S47 staff",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.0.0",
+    "googleapis": "^144.0.0"
+  }
+}

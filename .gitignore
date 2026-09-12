@@ -1,0 +1,7 @@
+config.js
+node_modules/
+data/
+credentials.json
+.env
+.env.*
+*.bak
